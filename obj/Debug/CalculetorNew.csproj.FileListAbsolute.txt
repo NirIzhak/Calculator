@@ -1,0 +1,10 @@
+C:\Users\NIR67\source\repos\CalculetorNew\bin\Debug\CalculetorNew.exe.config
+C:\Users\NIR67\source\repos\CalculetorNew\bin\Debug\CalculetorNew.exe
+C:\Users\NIR67\source\repos\CalculetorNew\bin\Debug\CalculetorNew.pdb
+C:\Users\NIR67\source\repos\CalculetorNew\obj\Debug\CalculetorNew.csproj.AssemblyReference.cache
+C:\Users\NIR67\source\repos\CalculetorNew\obj\Debug\CalculetorNew.Form1.resources
+C:\Users\NIR67\source\repos\CalculetorNew\obj\Debug\CalculetorNew.Properties.Resources.resources
+C:\Users\NIR67\source\repos\CalculetorNew\obj\Debug\CalculetorNew.csproj.GenerateResource.cache
+C:\Users\NIR67\source\repos\CalculetorNew\obj\Debug\CalculetorNew.csproj.CoreCompileInputs.cache
+C:\Users\NIR67\source\repos\CalculetorNew\obj\Debug\CalculetorNew.exe
+C:\Users\NIR67\source\repos\CalculetorNew\obj\Debug\CalculetorNew.pdb
